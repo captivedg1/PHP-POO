@@ -37,4 +37,6 @@
     //var_dump($php);
     
     // RAMA FOOTER PRUEBA
+
+    $php->profesor = 'ramaFooter';
 ?>
