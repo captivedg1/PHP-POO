@@ -36,4 +36,6 @@
 
     //var_dump($php);
 
+    $php->profesor = 'Antonio';
+
 ?>
